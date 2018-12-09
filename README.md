@@ -1,4 +1,4 @@
-## Paint-With-Opencv [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+## Paint-With-Opencv  [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 This code helps you to draw basic geometrical shapes using Opencv
 
 ### Code Requirements
@@ -15,9 +15,14 @@ Shapes that can be drawn are **Circle**, **Rectangle**, **Line** using some diff
 
 ### Guide
 
-*Paint with opencv by simply running the program.
-*Use `l`, `r`, `c` and `e` to toggle between different options.
-*I have included the **Eraser** in case you might need it!
+*Paint with opencv by simply running the program.  
+*Use `l`, `r`, `c` and `e` to toggle between different options.  
+*I have included the **Eraser** in case you might need it!  
+
+### Working Example 
+
+<img src="https://github.com/pulkitd2699/Paint-With-Opencv/blob/master/demo.gif">
+
 
 ### Execution
 To run the code, open the terminal and type `python Draw.py`
